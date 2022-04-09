@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+<title>Blog: Vendertuweb</title>
+<description>Disponemos de un Blog que se actualiza periodicamente y nos dedicamos a tratar temas interesantes para nuestra comunidad</description>
+<link>https://vendertuweb.com/blog</link>
+<image>
+<url>
+https://vendertuweb.com/assets/img/admin/apple-touch-icon-120x120-precomposed.png
+</url>
+</image> 
+<generator>https://rss.app</generator>
+<language>en</language> 
+<item>
+<title>Título nuevo articulo</title>
+<description>descripcion nueva</description>
+<link>URL nueva</link>
+<image>
+<url>nueva imagen</url>
+</image>
+</item>
+</channel>
+</rss>
